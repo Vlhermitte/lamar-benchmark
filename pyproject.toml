@@ -20,7 +20,7 @@ dependencies = [
     "scikit-learn==1.5.2", # is needed for hloc
     "pyceres==2.3",
 ]
-urls = {Repository = "https://github.com/microsoft/lamar-benchmark"}
+urls = {Repository = "https://github.com/Vlhermitte/lamar-benchmark"}
 
 [project.optional-dependencies]
 scantools = [

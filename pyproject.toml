@@ -16,9 +16,9 @@ dependencies = [
     "numpy==1.26.3",
     "torch>=1.1",
     "tqdm>=4.36.0",
-    "pycolmap==0.4.0",
+    "pycolmap==3.10.0",
     "scikit-learn==1.5.2", # is needed for hloc
-    "pyceres @ git+https://github.com/cvg/pyceres.git@v1.0",
+    "pyceres==2.3",
 ]
 urls = {Repository = "https://github.com/microsoft/lamar-benchmark"}
 
